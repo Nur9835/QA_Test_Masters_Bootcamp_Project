@@ -1,0 +1,4 @@
+file:src/test/resources/features/TC_41_Decimal_price_filter.feature:3
+file:src/test/resources/features/TC_37_Product_card_rate_and_%20comment_count.feature:4
+file:src/test/resources/features/TC_38_Filter_photo_comments.feature:4
+file:src/test/resources/features/TC_39_Coupon_isnt_display_basket.feature:4
